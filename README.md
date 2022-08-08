@@ -3,7 +3,6 @@
 ## I'm...
 - M.S. 2019 KAIST Electrical Engineering
 - Email : shmoonlight@kaist.ac.kr
-- M.S. 2019 KAIST Electrical Engineering
 - 😄 currently working as a Web Developer at TMaxoffice.
 
 ## Contact
