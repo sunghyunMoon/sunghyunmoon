@@ -3,6 +3,7 @@
 ## I'm...
 - M.S. 2019 KAIST Electrical Engineering
 - 😄 currently working as a Web Developer at TMaxoffice.
+- TechBlog : https://sunghyunmoon.github.io/
 
 ## Contact
 - Tel : 010 - 4900 - 5883
