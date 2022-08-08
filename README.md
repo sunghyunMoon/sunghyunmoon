@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## I'm...
+- M.S. 2019 KAIST Electrical Engineering
+- Email : shmoonlight@kaist.ac.kr
+- M.S. 2019 KAIST Electrical Engineering
+- 😄 currently working as a Web Developer at TMaxoffice.
+
+
+
 <!--
 **sunghyunMoon/sunghyunmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
